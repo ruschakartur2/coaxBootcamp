@@ -1,0 +1,1 @@
+Purpose of decorators is a function that takes another function and extends the behavior of the latter function without explicitly modifying it.
